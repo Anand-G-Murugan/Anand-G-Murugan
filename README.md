@@ -17,9 +17,9 @@ The world of Machine learning is interesting to me as it truly shows how far tec
 
 <!-- Machine Learning  -->
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org/" target="_blank"> <img src=" https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://keras.io/" target="_blank"> <img src=" https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
  
 <!-- Front End  -->
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/830013238627532803/902598202161782845/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/>  </a> 
