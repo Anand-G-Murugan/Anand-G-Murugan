@@ -2,15 +2,15 @@
 
 Welcome to my Github page!
 
-I'm an Machine Learning Engineer searching for the next big dataset to work on.
-- 🔭 I’m currently working on learning advanced Computer Vision
+I'm an Machine Learning Engineer and LLM enthusiast currently trying to find cool projects to work on!
+- 🔭 I’m currently working on building an LLM powered Resume Optimizer application.
+- Im also currently working towaqrds my AWS Machine Learning Engineer Certification.
 - 📫 How to reach me: anandgm9000@gmail.com
 
 
 ## About me
 I am currently studying Computer Science at VIT , Vellore and I'm on the lookout for interesting projects to sink my time into.
-I enjoy wokring with datasets that can lead to interesting and often unexpected yet accurate predictions.
-The world of Machine learning is interesting to me as it truly shows how far technology has advanced.
+I have recently come to enjoy working with LLMs and GNN's.
 
 ### **Languages and Tools:**
 <p align="left"> 
