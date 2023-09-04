@@ -48,9 +48,9 @@ I have recently come to enjoy working with LLMs and GNN's.
 </a>
 <a href="https://www.kaggle.com/anandgmurugan">
 <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
-</a>
+<!-- </a>
 <a href="https://twitter.com/Anand_needs_yay">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
+</a> -->
 </p>
 
