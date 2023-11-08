@@ -1,16 +1,16 @@
 # Hello World!
 
-Welcome to my Github page!
+Welcome to my GitHub page!
 
-I'm an Machine Learning Engineer and LLM enthusiast currently trying to find cool projects to work on!
-- 🔭 I’m currently working on building an LLM powered Resume Optimizer application.
-- Im also currently working towaqrds my AWS Machine Learning Engineer Certification.
+I'm a Machine Learning Engineer and LLM enthusiast currently trying to find cool projects to work on!
+- 🔭 I’m currently working on building an LLM-powered Resume Optimizer application.
+- I'm also currently working towards my AWS Machine Learning Engineer Certification.
 - 📫 How to reach me: anandgm9000@gmail.com
 
 
 ## About me
-I am currently studying Computer Science at VIT , Vellore and I'm on the lookout for interesting projects to sink my time into.
-I have recently come to enjoy working with LLMs and GNN's.
+I am currently studying Computer Science at VIT, Vellore and I'm on the lookout for interesting projects to sink my time into.
+I have recently come to enjoy working with LLMs and GNNs.
 
 ### **Languages and Tools:**
 <p align="left"> 
